@@ -1,0 +1,6 @@
+{
+  "name": "Unity 2D Stone Stack Studio",
+  "description": "Interactive Unity 2D physics sandbox and mobile-optimized C# script exporter for stone-dropping and stability-tracking games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
